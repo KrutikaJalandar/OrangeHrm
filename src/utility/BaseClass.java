@@ -26,6 +26,7 @@ public class BaseClass
 	{
 		driver.quit();
 		System.out.println("Application Closed Successfully");
+		System.out.println("Browser closed ");
 		
 	}
 
